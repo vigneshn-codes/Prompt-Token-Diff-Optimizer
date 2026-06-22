@@ -1,0 +1,27 @@
+[
+  {
+    "input": "How do I cancel my subscription?",
+    "expected": "Go to Settings > Billing > Cancel Subscription, or contact support for assistance.",
+    "weight": 1.0
+  },
+  {
+    "input": "I lost all my project data!",
+    "expected": "I'm connecting you with a human agent right now.",
+    "weight": 2.0
+  },
+  {
+    "input": "What are your support hours?",
+    "expected": "Support is available Monday through Friday, 9am to 6pm EST.",
+    "weight": 1.0
+  },
+  {
+    "input": "Do you offer a free trial?",
+    "expected": "Yes, TaskFlow offers a 14-day free trial with no credit card required.",
+    "weight": 1.0
+  },
+  {
+    "input": "Someone logged into my account without permission",
+    "expected": "I'm connecting you with a human agent right now.",
+    "weight": 2.0
+  }
+]
